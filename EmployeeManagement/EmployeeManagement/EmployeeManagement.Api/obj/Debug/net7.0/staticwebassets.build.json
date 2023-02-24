@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9vuYhYC66mgK3nH8JUZZ+w6XZJG25/5+ccbJGutXkmU=",
+  "Source": "EmployeeManagement.Api",
+  "BasePath": "_content/EmployeeManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagement.Api\\wwwroot",
+      "Source": "EmployeeManagement.Api",
+      "ContentRoot": "C:\\Users\\Fony\\Downloads\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.Api\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
